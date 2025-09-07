@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.csv
+*.tsv
+*.fasta
+*.fa
+*.pkl
+*.pt
+data/
+models/
+results/
